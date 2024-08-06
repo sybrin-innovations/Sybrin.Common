@@ -2,8 +2,8 @@
 //  NetworkHandler.swift
 //  Sybrin.iOS.Common
 //
-//  Created by Nico Celliers on 2020/08/12.
-//  Copyright © 2020 Sybrin Systems. All rights reserved.
+//
+//  Created by Rhulani Ndhlovu on 2021/12/26.
 //
 
 import SystemConfiguration

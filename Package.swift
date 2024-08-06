@@ -7,7 +7,6 @@ let package = Package(
     name: "Sybrin.Common",
     defaultLocalization: "en",
     products: [
-        // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
             name: "Sybrin.Common",
             targets: ["Sybrin.Common"]),
